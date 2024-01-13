@@ -1,4 +1,4 @@
-# Cascade-Controller-for-Multirotor-Drone
+# Cascade Controller for Multirotor Drone
 
 Quadcopter Control System Design in MATLAB
 This project involves the design and analysis of a control system for the lateral dynamics of a quadcopter based on cascade architecture using MATLAB. The model used is a linearized and decoupled at low speed, the derivation of which is not covered in this work. Feel free to use any model and adjusting the requirements/inputs.
