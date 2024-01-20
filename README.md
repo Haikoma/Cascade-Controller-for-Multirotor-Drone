@@ -22,5 +22,6 @@ MATLAB R20XX or later
 
 Control System Toolbox
 # Usage
+Use the Jupyter notebook perview or,
 Open the MATLAB and run the script section by section or as a whole.
 View the generated plots and results to analyze the performance of the control system.
